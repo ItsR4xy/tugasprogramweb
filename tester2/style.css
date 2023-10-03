@@ -1,0 +1,604 @@
+.contact {
+  position: absolute;
+  top: 2116px;
+  left: 589px;
+  font-size: var(--font-size-17xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 290px;
+  height: 54px;
+}
+
+.product-2-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 500px;
+  height: 650px;
+}
+.mask-group,
+.mi,
+.mi1,
+.gambaran {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 410px;
+  height: 240px;
+}
+.mi,
+.mi1,
+.mini-drone {
+  top: 45px;
+  left: 45px;
+}
+.mi,
+.mi1 {
+  top: 0;
+  left: 70px;
+  font-weight: 600;
+  display: inline-block;
+  width: 214px;
+  height: 32px;
+}
+.mi1 {
+  top: 79px;
+  left: 0;
+  font-size: var(--font-size-xl);
+  line-height: 32px;
+  font-weight: 300;
+  font-family: var(--font-poppins);
+  width: 354px;
+  height: 120px;
+}
+.button-child,
+.description {
+  position: absolute;
+  top: 315px;
+  left: 73px;
+  width: 354px;
+  height: 199px;
+}
+.button-child {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-mediumslateblue);
+}
+.get-now {
+  position: absolute;
+  top: 24%;
+  left: 29%;
+  font-weight: 600;
+}
+.button {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  display: none;
+}
+.primary-button {
+  position: absolute;
+  top: 555px;
+  left: 150px;
+  width: 200px;
+  height: 50px;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
+.product-2 {
+  position: absolute;
+  top: 162px;
+  left: 700px;
+  width: 500px;
+  height: 650px;
+  font-family: var(--font-inter);
+}
+.lana-del-rey-20210909100756-1 {
+  position: absolute;
+  top: 207px;
+  left: 745px;
+  border-radius: var(--br-3xs);
+  width: 410px;
+  height: 240px;
+  object-fit: cover;
+}
+.gallery-child {
+  position: absolute;
+  top: 162px;
+  left: 0;
+  border-radius: var(--br-3xs);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 500px;
+  height: 650px;
+}
+.mi2 {
+  position: absolute;
+  top: 0;
+  left: 61px;
+  font-weight: 600;
+  display: inline-block;
+  width: 214px;
+  height: 32px;
+}
+.description1,
+.mi3 {
+  position: absolute;
+  width: 336px;
+}
+.mi3 {
+  top: 97px;
+  left: 0;
+  font-size: var(--font-size-xl);
+  line-height: 32px;
+  font-weight: 300;
+  font-family: var(--font-poppins);
+  display: inline-block;
+  height: 120px;
+}
+.description1 {
+  top: 477px;
+  left: 82px;
+  height: 217px;
+  font-family: var(--font-inter);
+}
+.open-the-video {
+  position: absolute;
+  top: 24%;
+  left: 2%;
+  font-weight: 600;
+}
+.open-the-video>a{
+  color: #000;
+}
+.open-the-song,
+.primary-button1 {
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+}
+.primary-button1 {
+  position: absolute;
+  top: 717px;
+  left: 150px;
+  width: 200px;
+  height: 50px;
+}
+.open-the-song {
+  height: 3.58%;
+  width: 15.5%;
+  top: 89.78%;
+  left: 70.83%;
+  font-weight: 600;
+}
+.open-the-song>a{
+  color: #000;
+}
+.gallery1,
+.open-the-song,
+.this-is-gallery {
+  position: absolute;
+  display: inline-block;
+}
+.this-is-gallery {
+  top: 70px;
+  left: 375px;
+  font-size: var(--font-size-base);
+  line-height: 32px;
+  font-weight: 300;
+  color: var(--color-gray-100);
+  width: 509px;
+  height: 58px;
+}
+.gallery1 {
+  top: 0;
+  left: 469px;
+  font-weight: 600;
+  width: 290px;
+  height: 54px;
+}
+.image-1-icon {
+  position: absolute;
+  top: 207px;
+  left: 34px;
+  border-radius: var(--br-3xs);
+  width: 403px;
+  height: 240px;
+  object-fit: cover;
+}
+.gallery {
+  position: absolute;
+  top: 1196px;
+  left: 120px;
+  width: 1200px;
+  height: 812px;
+  font-size: var(--font-size-17xl);
+}
+.about-me-section-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-rosybrown);
+  width: 1482px;
+  height: 437px;
+}
+.hobby,
+.listening-to-music {
+  position: absolute;
+  top: 54px;
+  left: 743px;
+  font-weight: 300;
+  display: inline-block;
+  width: 168px;
+  height: 60px;
+}
+.hobby {
+  top: 0;
+  left: 713px;
+  font-size: var(--font-size-17xl);
+  font-weight: 500;
+  color: var(--color-black);
+  width: 227px;
+  height: 54px;
+}
+.contribute-more-anything {
+  margin: 0;
+}
+.contribute-more-anything-container,
+.goals {
+  position: absolute;
+  top: 59px;
+  left: 464px;
+  font-weight: 300;
+  display: inline-block;
+  width: 268px;
+  height: 47px;
+}
+.goals {
+  top: 0;
+  left: 502px;
+  font-size: var(--font-size-17xl);
+  font-weight: 500;
+  color: var(--color-black);
+  width: 170px;
+  height: 49px;
+}
+.i-like-music {
+  top: 60px;
+  left: 250px;
+  font-weight: 300;
+  width: 190px;
+  height: 60px;
+}
+.fun-fact,
+.he-any,
+.i-like-music,
+.pronouns {
+  position: absolute;
+  display: inline-block;
+}
+.fun-fact {
+  top: 0;
+  left: 217px;
+  font-size: var(--font-size-17xl);
+  font-weight: 500;
+  color: var(--color-black);
+  width: 256px;
+  height: 42px;
+}
+.he-any,
+.pronouns {
+  top: 59px;
+  left: 12px;
+  font-weight: 300;
+  width: 193px;
+}
+.pronouns {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-17xl);
+  font-weight: 500;
+  color: var(--color-black);
+  width: 217px;
+  height: 54px;
+}
+.detail {
+  position: absolute;
+  top: 282px;
+  left: 528px;
+  width: 940px;
+  height: 120px;
+}
+.about-me,
+.hello-im-daffa {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.about-me {
+  top: 0;
+  font-weight: 600;
+  width: 423px;
+  height: 72px;
+}
+.hello-im-daffa {
+  top: 88px;
+  font-size: 24px;
+  font-weight: 300;
+  text-align: left;
+  width: 702px;
+}
+.description2 {
+  position: absolute;
+  top: 32px;
+  left: 618px;
+  width: 702px;
+  height: 160px;
+  font-size: 48px;
+  color: var(--color-gray-200);
+}
+.coffee-1-1 {
+  position: absolute;
+  top: 44px;
+  left: 180px;
+  width: 263.02px;
+  height: 357px;
+  object-fit: cover;
+}
+.about-me-section {
+  position: absolute;
+  top: 663px;
+  left: -45px;
+  width: 1482px;
+  height: 437px;
+  color: var(--color-gray-300);
+}
+.button-item {
+  position: absolute;
+  height: 185.19%;
+  width: 139.86%;
+  top: -44.44%;
+  right: -19.58%;
+  bottom: -40.74%;
+  left: -20.28%;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-mediumslateblue);
+  display: none;
+}
+.get-now1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+}
+.button1 {
+  position: absolute;
+  height: 54%;
+  width: 71.5%;
+  top: 24%;
+  right: 14%;
+  bottom: 22%;
+  left: 14.5%;
+}
+.primary-button2 {
+  position: absolute;
+  top: 407px;
+  left: 0;
+  width: 200px;
+  height: 50px;
+  text-align: center;
+}
+.im {
+  color: var(--color-black);
+}
+.daffa {
+  color: #ff2c2c;
+}
+.this-is-daffa {
+  margin: 0;
+  font-size: 15px;
+  color: var(--color-rosybrown);
+}
+.im-daffa-alif-container {
+  position: absolute;
+  top: 71px;
+  left: 0;
+  display: inline-block;
+  width: 637px;
+  height: 237px;
+}
+.description3,
+.hello {
+  position: absolute;
+  left: 0;
+}
+.hello {
+  top: 0;
+  font-size: 30px;
+  font-family: var(--font-mochiy-pop-one);
+  display: inline-block;
+  width: 419px;
+  height: 72px;
+}
+.description3 {
+  top: 191px;
+  width: 637px;
+  height: 308px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-mochiy-pop-p-one);
+}
+.photo-icon {
+  position: absolute;
+  top: 96px;
+  left: 638px;
+  width: 407px;
+  height: 441px;
+  object-fit: cover;
+}
+.about-me1,
+.contact1,
+.gallery2 {
+  font-weight: 500;
+  display: inline-block;
+}
+.contact1 {
+  position: absolute;
+  top: 0;
+  left: 452.36px;
+  width: 99.66px;
+  height: 39px;
+}
+.contact1>a{
+  color: black;
+}
+.about-me1,
+.gallery2 {
+  width: 98.79px;
+}
+.gallery2 {
+  position: absolute;
+  top: 0;
+  left: 301.58px;
+  height: 39px;
+}
+.gallery2>a{
+  color: black;
+}
+
+.about-me1 {
+  left: 150.79px;
+}
+.about-me1,
+.header,
+.home,
+.navigation-bar {
+  position: absolute;
+  top: 0;
+  height: 39px;
+}
+.about-me1>a{
+  color: black;
+}
+
+.home {
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 98.79px;
+}
+.home>a{
+  color: #000;
+}
+.header,
+.navigation-bar {
+  left: 279px;
+  width: 552.02px;
+}
+.header {
+  top: 29px;
+  left: 165px;
+  width: 1045px;
+  height: 537px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+}
+.nim,
+.quotes {
+  position: absolute;
+  font-family: var(--font-mochiy-pop-one);
+  color: var(--color-dimgray);
+  display: inline-block;
+  height: 39px;
+}
+.quotes {
+  bottom: 1833px;
+  left: 1371px;
+  width: 495px;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.nim {
+  bottom: 1841px;
+  left: 142px;
+  width: 223px;
+}
+.notdaffagmailcom-0895-6134-5,
+.tryna-get-to {
+  position: absolute;
+  font-size: var(--font-size-base);
+  line-height: 32px;
+  font-weight: 300;
+  display: inline-block;
+}
+.notdaffagmailcom-0895-6134-5 {
+  top: 2277px;
+  left: 653px;
+  color: var(--color-black);
+  width: 181px;
+  height: 102px;
+}
+.tryna-get-to {
+  top: 2184px;
+  left: 497px;
+  color: var(--color-gray-100);
+  width: 509px;
+}
+.landing-page {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2475px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-poppins);
+}
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-mochiy-pop-one: "Mochiy Pop One";
+  --font-mochiy-pop-p-one: "Mochiy Pop P One";
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-xl: 20px;
+  --font-size-lg: 18px;
+  --font-size-17xl: 36px;
+  --font-size-6xl: 25px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #818181;
+  --color-gray-200: #222;
+  --color-gray-300: rgba(0, 0, 0, 0.75);
+  --color-black: #000;
+  --color-dimgray: #7d7070;
+  --color-rosybrown: #ba8888;
+  --color-mediumslateblue: #2e4dec;
+  --color-gainsboro: #e5e5e5;
+
+  /* Border radiuses */
+  --br-11xl: 30px;
+  --br-3xs: 10px;
+}
